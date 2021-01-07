@@ -1,10 +1,19 @@
 .App {
   text-align: center;
+  color: blue;
+  font-size: 0.7rem;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+img {
+  width: 15%;
+  height: 15;
+}
+body {
+  background-color: antiquewhite;
 }
 
 @media (prefers-reduced-motion: no-preference) {
